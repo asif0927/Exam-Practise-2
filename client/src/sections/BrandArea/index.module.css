@@ -1,0 +1,9 @@
+.section{
+    padding-top: 120px;
+}
+.img{
+    filter: grayscale(100%);
+}
+.img:hover{
+    filter: grayscale(0%);
+}

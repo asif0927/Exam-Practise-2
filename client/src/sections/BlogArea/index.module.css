@@ -1,0 +1,33 @@
+.section{
+    padding: 120px 0;
+}
+.h1{
+    font-size: 36px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.p{
+    margin-bottom: 1rem;
+    text-align: center;
+}
+.li{
+    display: inline-block;
+    padding: 4px 15px;
+    font-size: 12px;
+    font-weight: 400;
+    transition: all 0.3s ease 0s;
+    border: 1px solid transparent;
+    background-color: rgb(186,148,255);
+}
+.a{
+    transition: all 0.3s ease 0s;
+    color: #fff;
+    text-decoration: none;
+}
+.li:hover{
+    background-color: white;
+}
+.li:hover a{
+    color: black;
+}
